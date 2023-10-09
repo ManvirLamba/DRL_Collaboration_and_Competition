@@ -70,6 +70,6 @@ Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 
 Now you are ready to run the code. `cd` to the folder where the notebook is saved and run `jupyter notebook` in the terminal to open the notebook
 ## Rewards Plot
-![Alt Text](https://github.com/ManvirLamba/DRL_Collaboration_and_Competition/blob/main/ReportCollaboration%20and%20Competition.pdf)
+![Alt Text](https://github.com/ManvirLamba/DRL_Collaboration_and_Competition/blob/main/Media/RewardPlot.jpg)
 ## Project Report
-The detailed report for this project can be seen [here](https://github.com/ManvirLamba/DRL-Continuous-Control/blob/main/ReportContinuousControl.pdf).
+The detailed report for this project can be seen [here](https://github.com/ManvirLamba/DRL_Collaboration_and_Competition/blob/main/ReportCollaboration%20and%20Competition.pdf).
